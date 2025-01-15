@@ -1,7 +1,5 @@
 # Time-Conversion-with-java
 
-# Project Title
-
 A brief description of your project and what it does.
 
 ## Table of Contents
