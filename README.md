@@ -22,15 +22,15 @@ Given a time in 12-hour AM/PM format, your task is to convert it to military (24
 
 📌 Constraints
 
+* The input time will always be valid.
+
+🔍 Example
+
 | Input |	Output |
 |-------|--------|
 |07:05:45PM	| 19:05:45 |
 |12:01:00AM	| 00:01:00 |
 |12:30:00PM	| 12:30:00 |
-
-* The input time will always be valid.
-
-🔍 Example
 
 
 
