@@ -14,13 +14,15 @@ Given a time in 12-hour AM/PM format, your task is to convert it to military (24
 ```
 📥 Input
 
-A single string s representing time in 12-hour format (e.g., 07:05:45PM).
+* A single string s representing time in 12-hour format (e.g., 07:05:45PM).
 
 📤 Output
 
-A string representing the 24-hour format time.
+* A string representing the 24-hour format time.
 
 📌 Constraints
+
+* The input time will always be valid.
 
 
 
